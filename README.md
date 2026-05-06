@@ -8,4 +8,6 @@ Q2: Would you use a unit test to test the "max message length" feature?
 Yes, because this feature is independent and easy to test.
 
 
-raw012.github.io/Lab5-Starter
+## GitHub Pages
+- [Expose](https://raw012.github.io/Lab5_Starter/expose.html)
+- [Explore](https://raw012.github.io/Lab5_Starter/explore.html)
